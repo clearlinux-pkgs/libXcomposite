@@ -4,7 +4,7 @@
 #
 Name     : libXcomposite
 Version  : 0.4.4
-Release  : 3
+Release  : 4
 URL      : http://xorg.freedesktop.org/releases/individual/lib/libXcomposite-0.4.4.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/lib/libXcomposite-0.4.4.tar.bz2
 Summary  : X Composite Extension Library
